@@ -4,6 +4,7 @@
 <h2 align="center">✨ Welcome to My GitHub ✨</h2>
 <p align="center">프론트엔드 개발자 서유덕입니다. 성장과 기록을 소중히 여깁니다 🚀</p>
 
+
 ---
 
 <!-- 기술스택 -->
@@ -34,6 +35,8 @@
   <a href="https://github.com/uudeok/velog-readme-stats">
     <img src="https://velog-readme-stats.vercel.app/api?name=o1011&slug=토스뱅크-사전과제-회고-일주일의-기록" />
   </a>
+</p>
+<p align="center">
   <a href="https://github.com/uudeok/velog-readme-stats">
     <img src="https://velog-readme-stats.vercel.app/api?name=o1011&slug=Next.js-14-에서-메타데이터-적용하기" />
   </a>
